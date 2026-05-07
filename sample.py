@@ -1,5 +1,5 @@
 def main():
-    print("Hello, World! This is a simple repository.")
+    print("Good Morning...")
 
 if name == "main":
     main()
